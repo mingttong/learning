@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/mingttong/learning#readme",
   "dependencies": {
+    "chalk": "^2.4.2",
+    "express": "^4.16.4",
     "koa": "^2.7.0"
   }
 }
