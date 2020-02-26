@@ -1,0 +1,19 @@
+{
+  "name": "banner",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "start": "vue-cli-service serve"
+  },
+  "dependencies": {
+    "core-js": "^3.6.4",
+    "vue": "^2.6.11"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.2.0",
+    "@vue/cli-service": "^4.2.0",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
