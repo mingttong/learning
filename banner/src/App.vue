@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <div title="这是title">哈哈哈</div>
     <div class="container">
       <div class="left-btn" @click="onSwipe(-1)">&lt;</div>
       <div class="right-btn" @click="onSwipe(1)">&gt;</div>
